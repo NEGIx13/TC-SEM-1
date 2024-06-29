@@ -1,0 +1,22 @@
+TC book name - CS raidu
+
+communication is a process of exchange of facts, ideas , opinions and as a means that individuals or organisations share meaning and understanding with one another.
+communication is a two way processs.
+
+it is distributed in 3 types.
+1) vertical- top to bottom. eg- teacher to student
+	   2)- bottom to top. eg - student to faculty.
+3) diagonal - accross the departments. eg - teachers among different deparments
+
+
+
+NEED AND IMPORTANCE OF communications:-
+1) complex organisation.
+2) global organisation.
+3) technological advancemnet.
+4) information management and management information system.
+
+THE FLOW:_
+REQUIREMENTS >> DESIGNING >> IMPLEMENTATION >> TESTING >> MENTAINANCE.
+
+
